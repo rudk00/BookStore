@@ -1,0 +1,15 @@
+2023-02-24 18:43:53.188 [main] INFO  test.LoginTest - Sending a request to create a user
+2023-02-24 18:43:57.737 [main] INFO  test.LoginTest - Start test successful login
+2023-02-24 18:43:57.737 [main] INFO  test.LoginTest - Sending the correct data and checking authorization
+2023-02-24 18:44:01.856 [main] INFO  test.LoginTest - Authorization was successful
+2023-02-24 18:44:01.857 [main] INFO  test.LoginTest - Finish test successful login
+2023-02-24 18:44:03.811 [main] INFO  test.LoginTest - Start test unsuccessful login
+2023-02-24 18:44:03.812 [main] INFO  test.LoginTest - Try to send invalid data
+2023-02-24 18:44:07.107 [main] INFO  test.LoginTest - Invalid user name or password (correct)
+2023-02-24 18:44:07.108 [main] INFO  test.LoginTest - Try to send empty fields
+2023-02-24 18:44:08.719 [main] INFO  test.LoginTest - Notification: Fill in the fields (correct)
+2023-02-24 18:44:08.719 [main] INFO  test.LoginTest - Finish test unsuccessful login
+2023-02-24 18:44:34.508 [main] INFO  test.ListOfBooksTest - Start test matching books on the page and in the API response
+2023-02-24 18:44:37.172 [main] INFO  test.ListOfBooksTest - Opened the page and took out the titles of the books from there
+2023-02-24 18:44:37.971 [main] INFO  test.ListOfBooksTest - Sent a request and received book titles from the response
+2023-02-24 18:44:37.983 [main] INFO  test.ListOfBooksTest - List comparison result: true
